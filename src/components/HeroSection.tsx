@@ -47,7 +47,7 @@ const HeroSection = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.8 }}
           >
-            Senior Full-Stack Engineer with 9 years of experience building scalable web and mobile
+            Senior Full-Stack Engineer with 10 years of experience building scalable web and mobile
             applications in healthcare, mobility, and ESG. Specializing in Python, React, Next.js, TypeScript,
             and cloud-native technologies like AWS, Terraform, Docker, and Kubernetes.
           </motion.p>
@@ -59,7 +59,7 @@ const HeroSection = () => {
             transition={{ delay: 1 }}
           >
             <a
-              href="https://www.linkedin.com/in/appleby-parker-dylan/"
+              href="https://www.linkedin.com/in/dylan-parker-appleby-2722b5417/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 hover:text-primary transition-colors duration-300"
@@ -69,7 +69,7 @@ const HeroSection = () => {
             </a>
             <span className="w-px h-4 bg-border" />
             <a
-              href="mailto:Appleby.dylan@outlook.com"
+              href="mailto:dylan.applebyme@outlook.com"
               className="flex items-center gap-2 hover:text-primary transition-colors duration-300"
             >
               <Mail size={18} />
